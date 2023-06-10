@@ -1,5 +1,10 @@
 .btn {
-    
+    padding: 8px 32px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #7645d9;
+    color: white;
+    border: 1px solid #7645d9;
   }
   
   .btn__cancel {
