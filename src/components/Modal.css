@@ -15,18 +15,7 @@
   .btn__cancel:hover {
     background-color: #ebebeb;
   }
-  .modal {
-    border-radius: 4px;
-    background-color: white;
-    padding: 16px;
-    text-align: center;
-    width: 460px;
-    z-index: 1000;
-    position: fixed;
-    top: 200px;
-    left: 50%;
-    transform: translateX(-50%);
-  }
+  
    
   .modal__title {
     margin-bottom: 8px;
